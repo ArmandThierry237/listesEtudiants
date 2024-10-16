@@ -1,0 +1,60 @@
+[
+  {
+    "Titre": "Flots",
+    "Auteur": "PATRICK SENÉCAL",
+    "Éditeur": "ALIRE",
+    "Prix": "27,95 $",
+    "Collection": "GRAND FORMAT",
+    "Sujet": "ROMAN POLICIER QUÉBÉCOIS",
+    "Format Poche": "Non",
+    "Langue": "Français/French",
+    "Date de publication": "2021-04-12",
+    "ISBN": "9782896152254",
+    "Code Interne": "3276207",
+    "Numéro de produit": "16059499"
+  },
+  {
+      "Titre": "Un café avec marie",
+      "Auteur": "SERGE BOUCHARD",
+      "Éditeur": "BOREAL",
+      "Prix": "25,95 $",
+      "Sujet": "LITTERATURE QUEBECOISE",
+      "Format Poche": "Non",
+      "Langue": "Français/French",
+      "Nombre de pages": 272,
+      "Date de publication": "2021-03-01",
+      "ISBN": "9782764626597",
+      "Code Interne": "3350373",
+      "Numéro de produit": "16341594"
+    },
+  {
+    "Titre": "Barbe bleue",
+    "Auteur": "STEVE LAFLAMME",
+    "Éditeur": "ADA",
+    "Prix": "21,95 $",
+    "Collection": "LES CONTES INTERDITS",
+    "Sujet": "SCIENCE-FICTION/HORREUR QUEB.",
+    "Format Poche": "Non",
+    "Langue": "Français/French",
+    "Nombre de pages": 216,
+    "Date de publication": "2021-04-20",
+    "Dimensions": "22 x 14 cm",
+    "ISBN": "9782898087448",
+    "Code Interne": "3405853",
+    "Numéro de produit": "16561330"
+  },
+{
+    "Titre": "La Belle et la Bête",
+    "Auteur": "SIMON ROUSSEAU",
+    "Éditeur": "ADA",
+    "Prix": "21,95 $",
+    "Collection": "LES CONTES INTERDITS",
+    "Sujet": "SCIENCE-FICTION/HORREUR QUEB.",
+    "Format Poche": "Non",
+    "Langue": "Français/French",
+    "Date de publication": "2020-08-18",
+    "ISBN": "9782898085895",
+    "Code Interne": "3215347",
+    "Numéro de produit": "15714479"
+  }
+]
