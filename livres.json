@@ -1,15 +1,15 @@
 [
   {
-    "Titre": "Flots",
-    "Auteur": "PATRICK SENÉCAL",
-    "Éditeur": "ALIRE",
-    "Prix": "27,95 $",
-    "Collection": "GRAND FORMAT",
+    "titre": "Flots",
+    "auteur": "PATRICK SENÉCAL",
+    "editeur": "ALIRE",
+    "prix": "27,95 $",
+    "collection": "GRAND FORMAT",
     "Sujet": "ROMAN POLICIER QUÉBÉCOIS",
     "Format Poche": "Non",
     "Langue": "Français/French",
     "Date de publication": "2021-04-12",
-    "ISBN": "9782896152254",
+    "_id": "9782896152254",
     "Code Interne": "3276207",
     "Numéro de produit": "16059499"
   },
@@ -28,9 +28,9 @@
       "Numéro de produit": "16341594"
     },
   {
-    "Titre": "Barbe bleue",
-    "Auteur": "STEVE LAFLAMME",
-    "Éditeur": "ADA",
+    "titre": "Barbe bleue",
+    "auteur": "STEVE LAFLAMME",
+    "editeur": "ADA",
     "Prix": "21,95 $",
     "Collection": "LES CONTES INTERDITS",
     "Sujet": "SCIENCE-FICTION/HORREUR QUEB.",
