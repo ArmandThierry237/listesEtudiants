@@ -1,0 +1,123 @@
+[
+    {
+      "nom": "Bugatti Chiron",
+      "description": "La Bugatti Chiron est une voiture de sport ultra-luxueuse avec un moteur W16 quadri-turbo de 8.0 litres, développant 1500 chevaux.",
+      "prix": 2990000,
+      "image": "https://example.com/images/bugatti-chiron.jpg"
+    },
+    {
+      "nom": "Lamborghini Aventador",
+      "description": "La Lamborghini Aventador est une supercar italienne équipée d'un moteur V12 de 6.5 litres, offrant une performance exceptionnelle et un design emblématique.",
+      "prix": 393695,
+      "image": "https://example.com/images/lamborghini-aventador.jpg"
+    },
+    {
+      "nom": "Ferrari LaFerrari",
+      "description": "La Ferrari LaFerrari est une voiture de sport hybride ultra-rapide avec un moteur V12 de 6.3 litres combiné à un moteur électrique, produisant un total de 950 chevaux.",
+      "prix": 1400000,
+      "image": "https://example.com/images/ferrari-laferrari.jpg"
+    },
+    {
+      "nom": "Rolls-Royce Phantom",
+      "description": "La Rolls-Royce Phantom est la quintessence du luxe britannique, offrant un confort inégalé et des matériaux de la plus haute qualité, propulsée par un moteur V12 de 6.75 litres.",
+      "prix": 450000,
+      "image": "https://example.com/images/rolls-royce-phantom.jpg"
+    },
+    {
+      "nom": "Bentley Continental GT",
+      "description": "La Bentley Continental GT est une élégante voiture de grand tourisme avec un moteur W12 de 6.0 litres, alliant puissance et raffinement.",
+      "prix": 231800,
+      "image": "https://example.com/images/bentley-continental-gt.jpg"
+    },
+    {
+      "nom": "Aston Martin DB11",
+      "description": "L'Aston Martin DB11 est un chef-d'œuvre britannique avec un moteur V12 de 5.2 litres, combinant performances et élégance.",
+      "prix": 205600,
+      "image": "https://example.com/images/aston-martin-db11.jpg"
+    },
+    {
+      "nom": "McLaren 720S",
+      "description": "La McLaren 720S est une supercar britannique équipée d'un moteur V8 biturbo de 4.0 litres, offrant une expérience de conduite exceptionnelle.",
+      "prix": 299000,
+      "image": "https://example.com/images/mclaren-720s.jpg"
+    },
+    {
+      "nom": "Porsche 911 Turbo S",
+      "description": "La Porsche 911 Turbo S est une icône de performance allemande avec un moteur flat-six biturbo de 3.8 litres.",
+      "prix": 203500,
+      "image": "https://example.com/images/porsche-911-turbo-s.jpg"
+    },
+    {
+      "nom": "Mercedes-AMG GT",
+      "description": "La Mercedes-AMG GT est une voiture de sport luxueuse avec un moteur V8 biturbo de 4.0 litres.",
+      "prix": 118600,
+      "image": "https://example.com/images/mercedes-amg-gt.jpg"
+    },
+    {
+      "nom": "BMW i8",
+      "description": "La BMW i8 est une voiture hybride rechargeable combinant un moteur thermique et électrique, offrant des performances sportives avec une efficacité énergétique.",
+      "prix": 147500,
+      "image": "https://example.com/images/bmw-i8.jpg"
+    },
+    {
+      "nom": "Audi R8",
+      "description": "L'Audi R8 est une supercar allemande avec un moteur V10 de 5.2 litres, combinant puissance et technologie de pointe.",
+      "prix": 142700,
+      "image": "https://example.com/images/audi-r8.jpg"
+    },
+    {
+      "nom": "Tesla Model S Plaid",
+      "description": "La Tesla Model S Plaid est une berline électrique ultra-performante avec trois moteurs électriques, offrant une accélération et une autonomie impressionnantes.",
+      "prix": 129990,
+      "image": "https://example.com/images/tesla-model-s-plaid.jpg"
+    },
+    {
+      "nom": "Jaguar F-Type",
+      "description": "La Jaguar F-Type est une voiture de sport britannique élégante avec un moteur V8 suralimenté, offrant des performances exaltantes.",
+      "prix": 73000,
+      "image": "https://example.com/images/jaguar-f-type.jpg"
+    },
+    {
+      "nom": "Maserati GranTurismo",
+      "description": "La Maserati GranTurismo est une voiture de luxe italienne avec un moteur V8 de 4.7 litres, combinant performance et design sophistiqué.",
+      "prix": 134300,
+      "image": "https://example.com/images/maserati-granturismo.jpg"
+    },
+    {
+      "nom": "Lotus Evora",
+      "description": "La Lotus Evora est une voiture de sport britannique avec un moteur V6 suralimenté, offrant une conduite dynamique et précise.",
+      "prix": 91900,
+      "image": "https://example.com/images/lotus-evora.jpg"
+    },
+    {
+      "nom": "Pagani Huayra",
+      "description": "La Pagani Huayra est une hypercar italienne avec un moteur V12 biturbo de 6.0 litres, offrant des performances spectaculaires et un design artistique.",
+      "prix": 2600000,
+      "image": "https://example.com/images/pagani-huayra.jpg"
+    },
+    {
+      "nom": "Koenigsegg Jesko",
+      "description": "La Koenigsegg Jesko est une hypercar suédoise équipée d'un moteur V8 biturbo de 5.0 litres, conçue pour offrir des performances extrêmes et une vitesse incroyable.",
+      "prix": 3000000,
+      "image": "https://example.com/images/koenigsegg-jesko.jpg"
+    },
+    {
+      "nom": "Rimac C_Two",
+      "description": "La Rimac C_Two est une hypercar électrique croate avec quatre moteurs électriques, offrant une accélération fulgurante et une technologie avancée.",
+      "prix": 2000000,
+      "image": "https://example.com/images/rimac-c_two.jpg"
+    },
+    {
+      "nom": "Rolls-Royce Cullinan",
+      "description": "Le Rolls-Royce Cullinan est un SUV de luxe britannique avec un moteur V12 de 6.75 litres, offrant un confort et une opulence sans compromis.",
+      "prix": 330000,
+      "image": "https://example.com/images/rolls-royce-cullinan.jpg"
+    },
+    {
+      "nom": "Bentley Bentayga",
+      "description": "Le Bentley Bentayga est un SUV de luxe avec un moteur W12 de 6.0 litres, combinant puissance, élégance et polyvalence.",
+      "prix": 177000,
+      "image": "https://example.com/images/bentley-bentayga.jpg"
+    }
+  ]
+  
